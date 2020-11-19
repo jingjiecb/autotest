@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="testSelection:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/testSelection_jar</output-path>
+    <root id="archive" name="testSelection.jar">
+      <element id="module-output" name="testSelection" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/ibm/wala/com.ibm.wala.shrike/1.5.5/com.ibm.wala.shrike-1.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/ibm/wala/com.ibm.wala.util/1.5.5/com.ibm.wala.util-1.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/ibm/wala/com.ibm.wala.core/1.5.5/com.ibm.wala.core-1.5.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

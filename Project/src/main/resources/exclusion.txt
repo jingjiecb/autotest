@@ -1,0 +1,16 @@
+java\/awt\/.*
+javax\/swing\/.*
+sun\/awt\/.*
+sun\/swing\/.*
+com\/sun\/.*
+sun\/.*
+javafx\/.*
+org\/.*
+jdk\/.*
+java\/security\/.*
+java\/net\/.*
+com\/oracle\/.*
+javax\/management\/.*
+javax\/.*
+oracle\/.*
+netscape\/.*
